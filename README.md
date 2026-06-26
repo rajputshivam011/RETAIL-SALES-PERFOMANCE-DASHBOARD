@@ -379,7 +379,7 @@ Data Analyst | Power BI Developer | SQL | Python | Excel | Business Intelligence
 ### Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/shivamkrrajput](http://www.linkedin.com/in/shivamkrrajput)
-* GitHub: github.com/shivamkrrajput
+* GitHub: github.com/rajputshivam011
 
 ---
 
